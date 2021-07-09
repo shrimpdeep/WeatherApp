@@ -3,7 +3,7 @@
     "name": "WeatherApp",
     "slug": "WeatherApp",
     "version": "1.0.0",
-    "sdkVersion":"36.0.0",
+    "sdkVersion":"42.0.0",
     "orientation": "portrait",
     "updates": {
       "fallbackToCacheTimeout": 0
